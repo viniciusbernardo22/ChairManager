@@ -1,0 +1,6 @@
+@ChairManager.API_HostAddress = http://localhost:5252
+
+GET {{ChairManager.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
