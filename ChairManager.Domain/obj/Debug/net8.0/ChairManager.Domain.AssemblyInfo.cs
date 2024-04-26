@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ChairManager.API")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ChairManager.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acfaf883318a21012c8fd2fd8941992103ef91a6")]
-[assembly: System.Reflection.AssemblyProductAttribute("ChairManager.API")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ChairManager.API")]
+[assembly: System.Reflection.AssemblyProductAttribute("ChairManager.Domain")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ChairManager.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

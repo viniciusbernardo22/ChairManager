@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\Courses\ChairManager\ChairManager.Data\obj\Debug\net8.0\ChairManager.Data.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Courses\ChairManager\ChairManager.Data\obj\Debug\net8.0\ChairManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Courses\ChairManager\ChairManager.Data\obj\Debug\net8.0\ChairManager.Data.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Courses\ChairManager\ChairManager.Data\obj\Debug\net8.0\ChairManager.Data.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Courses\ChairManager\ChairManager.Data\obj\Debug\net8.0\ChairManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Courses\ChairManager\ChairManager.Data\obj\Debug\net8.0\ChairManager.Data.sourcelink.json
