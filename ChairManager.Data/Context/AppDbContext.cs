@@ -11,6 +11,7 @@ public class AppDbContext : DbContext
     }
 
     public DbSet<Chair> Chairs { get; }
+    public DbSet<Allocation> Allocations { get; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
