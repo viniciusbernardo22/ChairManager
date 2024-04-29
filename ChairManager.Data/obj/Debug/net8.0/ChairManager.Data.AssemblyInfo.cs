@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChairManager.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cbeef579f4031b7b8b77652251b4523c47f319a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChairManager.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChairManager.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

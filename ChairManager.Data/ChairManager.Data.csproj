@@ -21,4 +21,8 @@
       <ProjectReference Include="..\ChairManager.Domain\ChairManager.Domain.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Context\" />
+    </ItemGroup>
+
 </Project>

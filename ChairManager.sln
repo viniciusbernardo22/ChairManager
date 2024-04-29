@@ -2,8 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChairManager.API", "ChairManager.API\ChairManager.API.csproj", "{238A6E23-7D0A-4CF7-8C50-DB6CED0F0A9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChairManager.Data", "ChairManager.Data\ChairManager.Data.csproj", "{3AB99CC2-A070-41F6-9040-92E5CB123D0A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChairManager.Domain", "ChairManager.Domain\ChairManager.Domain.csproj", "{E599D6EA-1815-44E0-AD34-4170E53AEA31}"
 EndProject
 Global
@@ -16,10 +14,6 @@ Global
 		{238A6E23-7D0A-4CF7-8C50-DB6CED0F0A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{238A6E23-7D0A-4CF7-8C50-DB6CED0F0A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{238A6E23-7D0A-4CF7-8C50-DB6CED0F0A9F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3AB99CC2-A070-41F6-9040-92E5CB123D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3AB99CC2-A070-41F6-9040-92E5CB123D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3AB99CC2-A070-41F6-9040-92E5CB123D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3AB99CC2-A070-41F6-9040-92E5CB123D0A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E599D6EA-1815-44E0-AD34-4170E53AEA31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E599D6EA-1815-44E0-AD34-4170E53AEA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E599D6EA-1815-44E0-AD34-4170E53AEA31}.Release|Any CPU.ActiveCfg = Release|Any CPU
